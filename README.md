@@ -72,7 +72,7 @@ class ShapeTracker:
 
 from flex_dsa.optimizer import FlexDSAOptimizer
 
-# 创建计算图 (这里需要您实现具体的计算图表示)
+# 创建计算图
 computational_graph = create_computational_graph()
 
 # 为特定平台创建优化器
